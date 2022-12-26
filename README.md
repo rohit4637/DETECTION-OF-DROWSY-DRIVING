@@ -7,3 +7,5 @@ yawning).
 * used the Dlib package to identify the face and 68 facial landmarks, then found the aspect ratio using
 the landmarks, and finally detected tiredness.
 * Tech Stack: Python, OpenCV, Dlib Library
+![image](https://user-images.githubusercontent.com/83691645/209560477-059c4355-64be-4948-801d-d0f9f1b4b7e6.png)
+![image](https://user-images.githubusercontent.com/83691645/209560888-34c7ef3c-7b07-4a15-a43e-d5afe51b2262.png)
